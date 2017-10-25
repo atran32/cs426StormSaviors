@@ -1,0 +1,4 @@
+Schedule and deliverable:
+Simulate raining water from cloud by dropping a projectile from a game object -- Wed by 2200(estimate: 1 hr)
+Get submission folder ready for assmt 6 -- Thu by 1400(estimate: 1 hr)
+Set up group calendar to keep track of scheduling -- Sat by 2359(estimate: 1-2 hours?)
