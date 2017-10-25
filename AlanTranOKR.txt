@@ -1,0 +1,4 @@
+Schedule and deliverable:
+Create terrain -- Wed by 5pm (estimate: 2-3 hrs)
+Make cloud and do cloud's movement -- Wed by 8pm (Estimate: 20 minutes)
+Create turn system -- Wed by 12pm (Estimate: 1-2 hrs)
